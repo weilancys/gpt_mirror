@@ -4,7 +4,7 @@
 - ChatGPT Mirror is a tiny mirror site built with flask and [the openai python library](https://github.com/openai/openai-python).
 
 ### install
-1. close this repo
+1. clone this repo
 2. `cd gpt_mirror`
 3. `python setup.py install`
 
