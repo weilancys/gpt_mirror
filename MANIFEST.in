@@ -1,4 +1,4 @@
-recursive-include gpt_mirror static
-recursive-include gpt_mirror templates
+graft gpt_mirror/static
+graft gpt_mirror/templates
 global-exclude __pycache__
 global-exclude *.pyc
